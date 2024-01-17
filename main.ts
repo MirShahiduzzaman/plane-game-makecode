@@ -183,7 +183,7 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Button, function (sprite, otherS
             ......6ccc666c66e4e44e44e44e44ee66c666ccc6......
             `, SpriteKind.Door)
         mySprite3.z = -1
-        mySprite3.setPosition(20, 44)
+        mySprite3.setPosition(20, 59)
     } else {
         game.showLongText("Gonna avoid that", DialogLayout.Top)
     }
